@@ -215,7 +215,8 @@ header {
 }
 
 .item {
-  color: #000
+  max-height: 40%;
+  color: #000;
   position: relative;
   overflow: hidden;
   border-radius: 0.5rem;
